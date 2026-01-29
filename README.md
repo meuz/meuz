@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <p>Hola 👋 Soy Francisco Sepúlveda</p>
+  <span style="font-size: 2em; font-weight: bold;">Hola 👋 Soy Francisco Sepúlveda</span>
 </div>
 
 <div align="center">

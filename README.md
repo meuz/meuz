@@ -3,7 +3,7 @@
 
 ### Hola, soy Francisco Sepúlveda
 
-<p align="center">
+<p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+practica;Programador+Full+Stack+Web;Objetivo:%20aprender%20de%20todo%20y%20todos&center=true&width=500&height=50&size=20"></a>
 </p>
 

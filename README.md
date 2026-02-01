@@ -4,7 +4,7 @@
   <p style="font-size: 5px">Hola 👋 Soy Francisco Sepúlveda</span>
 </div>
 
-<div align="user-content-toc">
+<div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Skills</h1></summary>
     </ul>

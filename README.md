@@ -4,7 +4,7 @@
 ### Hola, soy Francisco Sepúlveda
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+practica;Programador+Full+Stack+Web;Objetivo:%20aprender%20un%20poco%20de%20todo&center=true&width=500&height=50&size=20"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+practica;Programador+Full+Stack+Web;Objetivo:%20aprender%20de%20todo%20y%20todos&center=true&width=500&height=50&size=20"></a>
 </p>
 
 <div align="center">
@@ -53,5 +53,6 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
 </div>
 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

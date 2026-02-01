@@ -7,8 +7,8 @@
 <div align="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Skills</h1></summary>
+    </ul>
     [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,django,docker,flask,github,mongodb,mysql,postman,)](https://skillicons.dev)
-  </ul>
 </div>
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>

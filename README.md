@@ -1,4 +1,5 @@
 <div align="center">
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Hola, soy Francisco Sepúlveda
@@ -18,33 +19,40 @@
         <img src="https://skillicons.dev/icons?i=py,js"/>
       </a>
     </kbd>
-    <kbd style="margin-right: 20px">
+    <kbd>
       <kbd>Front end</kbd>
       <br><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css"/>
       </a>
     </kbd>
-    <br><br>
-    <kbd style="margin-right: 20px">
+    <kbd>
       <kbd>Back end</kbd>
       <br><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
       </a>
     </kbd>
-    <kbd style="margin-right: 20px">
+    <br><br>
+    <kbd>
       <kbd>Database</kbd>
       <br><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
       </a>
     </kbd>
-    <kbd style="margin-right: 20px">
+    <kbd>
       <kbd>Sistemas operativos & Deployment</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,macos,nodejs"/>
+        <img src="https://skillicons.dev/icons?i=windows,apple"/>
+      </a>
+    </kbd>
+    <kbd>
+      <kbd>Herramientas</kbd>
+      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman,vscode"/>
       </a>
     </kbd>
   </kbd>
@@ -52,7 +60,7 @@
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
 </div>
-
-</div>
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+</div>

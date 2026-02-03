@@ -9,28 +9,28 @@
 </p>
 
 <div align="center">
-  <h2>Herramientas<h2>
+  <h3>Tecnologías<h3>
   <kbd>
     <br>
-    <kbd style="margin-right: 20px">
+    <kbd>
       <kbd>Lenguajes de programación</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js"/>
+        <img src="https://skillicons.dev/icons?i=py,js" />
       </a>
     </kbd>
     <kbd>
       <kbd>Front end</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css"/>
+        <img src="https://skillicons.dev/icons?i=html,css" />
       </a>
     </kbd>
     <kbd>
       <kbd>Back end</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+        <img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
       </a>
     </kbd>
     <br><br>
@@ -38,21 +38,21 @@
       <kbd>Database</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
       </a>
     </kbd>
     <kbd>
       <kbd>Sistemas operativos & Deployment</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,apple"/>
+        <img src="https://skillicons.dev/icons?i=windows,apple,docker" />
       </a>
     </kbd>
     <kbd>
       <kbd>Herramientas</kbd>
       <br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postman,vscode"/>
+        <img src="https://skillicons.dev/icons?i=vscode,postman" />
       </a>
     </kbd>
   </kbd>

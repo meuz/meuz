@@ -2,13 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hola, soy Francisco Sepúlveda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<div>
+  <h3>Hola, soy Francisco Sepúlveda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+</div>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+practica;Objetivo:%20aprender%20de%20todo%20y%20todos&center=true&width=500&height=50&size=20"></a>
 </p>
 
-<div align="center">
+<div>
   <h3>Tecnologías<h3>
   <kbd>
     <br>
@@ -129,8 +131,17 @@
   </kbd>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
+
+<div>
+  <table>
+    <tr align="center">
+      <td>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
+      </td>
+      <td> 
+      </td>
+    </tr>    
+  </table>
 </div>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

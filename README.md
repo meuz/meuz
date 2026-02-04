@@ -14,7 +14,10 @@
   <h3>Sobre mí</h3>
   <p>Emocionado por comenzar mi practica y aprender cosas nuevas, soy bueno esuchando, <br> trabajando en equipo y aprendiendo rapido.</p>
 </div>
+
 <br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhobno5MGRxdmdubHhxNzJxZWE2azE1OWk0amQyOHJ4bGYza3NpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+
 <div>
   <h3>Tecnologías<h3>
   <kbd>
@@ -98,7 +101,7 @@
       </table>
     </kbd>
     <kbd>
-      <kbd>Sistemas operativos & Deployment</kbd>
+      <kbd>Sistemas operativos & Despliegue</kbd>
       <br><br>
       <table>
         <tr>
@@ -135,9 +138,12 @@
     </kbd>
   </kbd>
 </div>
+
 <br>
+
 <div>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meuz&show_icons=true&theme=dark&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&layout=compact&langs_count=8&theme=dark&locale=es"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

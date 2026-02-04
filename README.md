@@ -11,6 +11,11 @@
 </p>
 
 <div>
+  <h3>Sobre mí</h3>
+  <p>Emocionado por comenzar mi practica y aprender cosas nuevas, soy bueno esuchando, <br> trabajando en equipo y aprendiendo rapido.</p>
+</div>
+<br>
+<div>
   <h3>Tecnologías<h3>
   <kbd>
     <br>
@@ -130,20 +135,11 @@
     </kbd>
   </kbd>
 </div>
-
-
+<br>
 <div>
-  <table>
-    <tr align="center">
-      <td>
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
-      </td>
-      <td> 
-      </td>
-    </tr>    
-  </table>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es"/>
 </div>
-    
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>

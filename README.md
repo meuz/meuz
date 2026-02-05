@@ -153,7 +153,7 @@
   <h3>Contacto</h3>
   
   [![Gmail](https://img.shields.io/badge/Gmail-Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.sepulvedahen@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:francisco.sepulvedahen@gmail.com) 
+  [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meuz1_/) 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

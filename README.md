@@ -146,6 +146,16 @@
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&layout=compact&langs_count=8&theme=dark&locale=es"/>
 </div>
 
+<br>
+<img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50">
+
+<div>
+  <h3>Contacto</h3>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.sepulvedahen@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:francisco.sepulvedahen@gmail.com) 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>

@@ -55,6 +55,11 @@
             <br>
             <sub>Junior</sub>
           </td>
+          <td align="center">
+            <img src="https://skillicons.dev/icons?i=react" />
+            <br>
+            <sub>Junior</sub>
+          </td>
         </tr>
       </table>
     </kbd>

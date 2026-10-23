@@ -148,7 +148,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meuz&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fmeuuz&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <br>
@@ -158,7 +158,7 @@
   <h3>Contacto</h3>
   
   [![Gmail](https://img.shields.io/badge/Gmail-Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.sepulvedahen@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meuz1_/) 
+  [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fmeuuz/) 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

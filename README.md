@@ -148,7 +148,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=meuz&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=meuz&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fmeuuz&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <br>

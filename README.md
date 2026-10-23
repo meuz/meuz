@@ -83,7 +83,7 @@
     </kbd>
     <br><br>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd>Bases de datos</kbd>
       <br><br>
       <table>
         <tr>
